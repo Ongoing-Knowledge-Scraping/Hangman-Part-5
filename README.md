@@ -10,7 +10,7 @@ Hangman game utilizing all tools / skills learned so far. First time dealing wit
 
 ## Hangman ##
 
-![Hangman](<https://github.com/Ongoing-Knowledge-Scraping/Password-Generator/blob/main/Password-Generator.gif> "Running the code")
+![Hangman](<https://github.com/Ongoing-Knowledge-Scraping/Hangman-Part-5/blob/main/Hangman-2.gif> "Running the code")
 
 ## View on Replit ##
 
